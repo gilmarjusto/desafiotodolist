@@ -1,0 +1,1 @@
+INSERT INTO TASK(id, name, description, realized, priority_Type) VALUES(01 , 't1', 'd1', false, 0);
